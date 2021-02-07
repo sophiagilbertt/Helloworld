@@ -1,6 +1,5 @@
 body {
   color: #778899
-  font-family: Garamond, serif;
   }
 
 img {
@@ -24,3 +23,6 @@ body{
  {
   background-color:#FFFaf0;
 }
+  {
+    font-family: Garamond, serif;
+  }
