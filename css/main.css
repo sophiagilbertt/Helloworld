@@ -1,5 +1,4 @@
-body{
-  font-family: Garamond, serif;
+body {
   color: #778899
   }
 
@@ -25,3 +24,6 @@ body {
   background-color:#FFFaf0;
 }
 
+body {
+  font-family: Garamond, serif;
+}
