@@ -1,6 +1,6 @@
 body{
   font-family: Garamond, serif;
-  color: pink
+  color: #778899
   }
 
 img {
@@ -17,6 +17,11 @@ img {
 }
 /* center images*/
 
+body{
+  text-align: center;
+  /*center text*/
+  
 body {
   background-color:#FFFaf0;
 }
+
